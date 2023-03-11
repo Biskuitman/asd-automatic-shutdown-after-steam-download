@@ -12,4 +12,8 @@ note:
 The program was only testet on windows!
 Please share bugs!
 
-download asd.exe
+Okay but how do I use it?
+1. download asd.exe
+2. start the program
+3. start the download
+4. done
