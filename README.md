@@ -1,6 +1,6 @@
 The program automaticly shuts down the computer when a Steam download is done.
 
-The program doens´t have a fancy overlay but it also doesn´t have to be configured at all.
+The program doens´t have a fancy overlay but it also works right out of the box.
 
 What does the program do?
 1. waits untill a download is started
@@ -9,7 +9,7 @@ What does the program do?
 4. after the countdown is done the computer shuts down
 
 note:
-The program was only testet on windows!
+The program was only tested on windows!
 Please share bugs!
 
 Okay but how do I use it?
