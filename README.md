@@ -1,4 +1,6 @@
 The program automaticly shuts down the computer when a Steam download is done.
+
+
 There is no fancy overlay but it works right out of the box.
 
 What does the program do?
