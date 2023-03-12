@@ -1,6 +1,5 @@
 The program automaticly shuts down the computer when a Steam download is done.
-
-The program doens´t have a fancy overlay but it also works right out of the box.
+There is no fancy overlay but it works right out of the box.
 
 What does the program do?
 1. waits untill a download is started
